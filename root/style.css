@@ -25,7 +25,7 @@ header{
  }
 
 .formato{
-	background-color: #3FE82D;
+	background-image: radial-gradient(#3FE82D,#7CF9B4);
 	margin: 25px;
 	padding: 40px;
 	border: 4px dotted;
